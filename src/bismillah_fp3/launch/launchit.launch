@@ -1,0 +1,5 @@
+<launch>
+    <node name="com" pkg="bismillah_fp3" type="com" output="screen" respawn="true" /> 
+    <node name="cam" pkg="bismillah_fp3" type="cam" output="screen" respawn="true" /> 
+    <node name="motor" pkg="bismillah_fp3" type="motor" output="screen" respawn="true" /> 
+</launch>

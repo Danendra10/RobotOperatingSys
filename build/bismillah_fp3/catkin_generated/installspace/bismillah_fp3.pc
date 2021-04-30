@@ -1,0 +1,8 @@
+prefix=/home/danendra2210/FP_IRIS/install
+
+Name: bismillah_fp3
+Description: Description of bismillah_fp3
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

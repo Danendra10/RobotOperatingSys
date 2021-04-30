@@ -1,0 +1,2 @@
+bismillah_fp3
+-DCATKIN_DEVEL_PREFIX=/home/danendra2210/FP_IRIS/devel -DCMAKE_INSTALL_PREFIX=/home/danendra2210/FP_IRIS/install -G Unix Makefiles
